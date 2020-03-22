@@ -93,8 +93,7 @@ def find_smallest(arr:list):
         arr.remove(a)
     return new_arr
 arr = [6,2,9,1,0,4,-1,34,788,-45]
-find_smallest(arr)
 
-#测试
-def cnnp():
+def cpnd():
+    print('cnpdhas;dkf')
     pass
